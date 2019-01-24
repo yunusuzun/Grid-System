@@ -1,4 +1,4 @@
-# Grid-System
+# Simple Grid System
 CSS Responsive Grid System
 ```html
 <link rel="stylesheet" href="css/grid.min.css">
