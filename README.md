@@ -61,7 +61,7 @@ Container Width
    <div class="col-rs-3">
       ...
    </div>
-      <div class="col-rs-4">
+   <div class="col-rs-4">
       ...
    </div>
    <div class="col-rs-5">
