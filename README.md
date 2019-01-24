@@ -34,6 +34,10 @@
 ```
 
 ## Container
+Container Width
+- 960px
+- 720px
+- 540px
 ```html
 <div class="container">
    ...
