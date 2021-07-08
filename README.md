@@ -2,6 +2,7 @@
 CSS Responsive Grid System
 ```html
 <link rel="stylesheet" href="css/grid.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/yunusuzun/grid-system@1.0.0/css/grid.min.css">
 ```
 ![grid](https://user-images.githubusercontent.com/34831113/51698485-614aab00-201b-11e9-8947-4d081914727a.png)
 ## Head
